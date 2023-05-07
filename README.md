@@ -1,6 +1,6 @@
 # Final ADBMS Project 
 
-## Our Information
+
 ### Name: Shreyas Kulkarni
 
 CWID: 885197384
